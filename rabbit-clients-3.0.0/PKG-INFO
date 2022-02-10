@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: rabbit-clients
+Version: 3.0.0
+Summary: Provides decorators for basic RabbitMQ support with respect to publishing and consuming messages.
+Home-page: https://github.com/awburgess/rabbit-clients
+Author: Aaron Burgess
+Author-email: geoburge@gmail.com
+License: MIT License
+Description: Provides decorators for basic RabbitMQ support with respect to publishing and consuming messages.
+Keywords: rabbitmq
+Platform: UNKNOWN
